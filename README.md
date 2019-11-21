@@ -4,7 +4,7 @@ This is a simple server run using Ruby on Rails. It is designed to serve as prac
 
 Assignment1 requires the setup of multiple database tables and associations
 
-Assignment2 requires that all models be validated and that a searching be added for each index function. Unit test all code. Make the searches dynamic using Ajax.
+Assignment2 requires that all models be validated and that searching be added for each index function. Unit test all code. Make the searches dynamic using Ajax.
 
 The database itself can be described as follows.
 
