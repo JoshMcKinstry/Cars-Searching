@@ -1,4 +1,4 @@
-nguage: ruby
+language: ruby
 rvm:
          — 2.5
 script:
